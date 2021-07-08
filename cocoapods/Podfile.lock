@@ -1,0 +1,16 @@
+PODS:
+  - BranchMacOS (1.3.0)
+
+DEPENDENCIES:
+  - BranchMacOS (= 1.3.0)
+
+SPEC REPOS:
+  trunk:
+    - BranchMacOS
+
+SPEC CHECKSUMS:
+  BranchMacOS: 56b59a8f2a51d664702ec64d1e3404ba260d8570
+
+PODFILE CHECKSUM: 6ac989d042a5e88b308e3814a7cc2e4917b7d9c7
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+platform :osx, '10.10'
+use_frameworks!
+
+target 'cocoapods' do
+  pod 'BranchMacOS', '1.3.0'
+end
